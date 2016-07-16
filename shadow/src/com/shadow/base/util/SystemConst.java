@@ -9,5 +9,5 @@ package com.shadow.base.util;
  * @version 1.0
  */
 public class SystemConst {
-	
+	public static final String SESSION_SECURITY_CODE = "sessionSecCode";//验证码
 }
